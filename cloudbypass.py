@@ -49,7 +49,7 @@ def print_intro():
 ║  This tool is designed for OSINT investigations,  ║
 ║  providing various techniques for IP analysis,    ║
 ║  reconnaissance, and target information gathering ║
-║  						                            ║
+║  						    ║
 ║           Press Enter to continue...              ║
 ╚═══════════════════════════════════════════════════╝
 \033[0m
